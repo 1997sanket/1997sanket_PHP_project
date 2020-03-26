@@ -1,0 +1,58 @@
+body{ 
+		background-color: 66CCFF;
+}
+
+
+
+#container {
+				background-color: lightgrey;
+				width: 1000px;
+				height:800px;
+				margin-left:auto;
+				margin-right:auto;
+				
+				
+}
+
+#header { 
+			
+			background-color:lightblue;
+			text-align:center;
+			color:black;
+			padding:10px;
+			
+}
+
+#content {
+	padding: 10px ;
+}
+
+#nav {
+	width: 180px ;
+	float:left;
+}
+#nav ul{
+	list-style-type:none;
+	padding:0;
+}
+
+#main {
+	width:680px;
+	float:right;
+	margin-top: 100px;
+	
+}
+
+h1{
+	margin:0;
+}
+
+
+#footer {
+
+	background-color: yellow;
+	clear:both;
+	padding:10px;
+}
+
+
